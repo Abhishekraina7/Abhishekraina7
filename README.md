@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekraina
-- 👀 I’m interested in App development 
+- 👀 I’m into in App development 
 - 🌱 I’m currently learning flutter and DSA using java.
 - 💞️ I’m looking to collaborate on UI/UX and how to build Softwares from scratch.
 - 📫 You can reach me at the following options: 
