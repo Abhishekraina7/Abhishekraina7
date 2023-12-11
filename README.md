@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raina</h1>
 <h3 align="center">A Jnr.Flutter developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekraina7" alt="abhishekraina7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishekraina7" alt="abhishekraina7" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter development**
 
