@@ -11,7 +11,7 @@
 
 - 👨‍💻 Check out my Portfolio [https://portfolioabhishekraina07.my.canva.site/](https://portfolioabhishekraina07.my.canva.site/)
 
-- 💬 Ask me about **Software Developement,Flutter, Dart, Java and Problem Solving **
+- 💬 Ask me about Software Developement,Flutter, Dart, Java and Problem Solving 
 
 - 📫 How to reach me **abhishek.raina.uit@gmail.com**
 
