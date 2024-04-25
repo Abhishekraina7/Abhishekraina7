@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **abhishek.raina.uit@gmail.com**
 
-- ⚡ Fun fact **I am actually learning faster when I hoped on to Consistency.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
