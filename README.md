@@ -63,4 +63,5 @@
 Abhishekraina7/Abhishekraina7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/abhishek_raina710"><img align ="center" src="https://api.daily.dev/devcards/v2/8uzYdZu9km2WuxaUMG2xM.png?type=wide&r=s78" width="652" alt="Abhishek Raina's Dev Card"/></a>
+## Currently I am learning:
+[![roadmap.sh](https://roadmap.sh/card/wide/66d47bb8553501e3c37f4416?variant=light&roadmaps=javascript%2Cnodejs)](https://roadmap.sh)
