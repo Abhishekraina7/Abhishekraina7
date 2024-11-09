@@ -13,7 +13,6 @@
 - 💬 Ask me about **Software Developement,Flutter, Dart, Java and Problem Solving.** 
 - 📫 How to reach me **abhishek.raina.uit@gmail.com**
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,14 +32,6 @@
 
 
 
-
-<p align="center">
-<a href="https://github.com/Abhishekraina7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekraina7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishekraina7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/araina89927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="araina89927" height="30" width="40" /></a>
@@ -55,3 +46,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Expanding my TechStack with:
 [![roadmap.sh](https://roadmap.sh/card/wide/66d47bb8553501e3c37f4416?variant=light&roadmaps=javascript%2Cnodejs)](https://roadmap.sh)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+<a href="https://github.com/Abhishekraina7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekraina7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishekraina7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
