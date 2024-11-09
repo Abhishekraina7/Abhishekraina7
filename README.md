@@ -45,7 +45,7 @@ Abhishekraina7/Abhishekraina7 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ## Expanding my TechStack with:
-[![roadmap.sh](https://roadmap.sh/card/wide/66d47bb8553501e3c37f4416?variant=light&roadmaps=javascript%2Cnodejs)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66d47bb8553501e3c37f4416?variant=dark)](https://roadmap.sh)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
