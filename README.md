@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **Flutter development**
-- 🌱 I’m Learning more about **Flutter, Data-structures and Algorithms, UI/UX design.**
-- 👯 I’m looking to collaborate on **UI/UX and how to build Software from scratch.**
+- 🔭 I’m currently working on **Mobile App Development**
+- 🌱 I’m Learning more about **MERN stack and Data structures and Algorithms**
+- 👯 I’m looking to collaborate on **Building boring but techically heavy projects and explore Real Engineering not fancy stuff**
 - 👨‍💻 Check out my Portfolio [https://portfolioabhishekraina07.my.canva.site/](https://portfolioabhishekraina07.my.canva.site/)
-- 💬 Ask me about **Software Developement,Flutter, Dart, Java and Problem Solving.** 
+- 💬 Ask me about **Software Developement (Mobile specific), React-Native, Flutter, backend** 
 - 📫 How to reach me **abhishek.raina.uit@gmail.com**
 
 
