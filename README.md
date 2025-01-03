@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **Mobile App Development**
-- 🌱 I’m Learning more about **MERN stack and Data structures and Algorithms**
-- 👯 I’m looking to collaborate on **Building boring but techically heavy projects and explore Real Engineering not fancy stuff**
+- 🔭 I’m currently working on **Mobile App Development.**
+- 🌱 I’m Learning more about **MERN stack and Data structures and Algorithms.**
+- 👯 I’m looking to collaborate on **Building boring but techically heavy projects and explore Real Engineering not fancy stuff.**
 - 👨‍💻 Check out my Portfolio [https://portfolioabhishekraina07.my.canva.site/](https://portfolioabhishekraina07.my.canva.site/)
-- 💬 Ask me about **Software Developement (Mobile specific), React-Native, Flutter, backend** 
+- 💬 Ask me about **Software Developement (Mobile specific), React-Native, Flutter, backend.** 
 - 📫 How to reach me **abhishek.raina.uit@gmail.com**
 
 
