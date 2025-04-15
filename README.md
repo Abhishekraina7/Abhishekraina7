@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raina</h1>
-<h3 align="center"> Mobile developer from India</h3>
+<h3 align="center"> Mobile Dev from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishekraina7" alt="abhishekraina7" /></a> </p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **Mobile App Development.**
-- 🌱 I’m Learning more about **MERN stack and Data structures and Algorithms.**
-- 👯 I’m looking to collaborate on **Building boring but techically heavy projects and explore Real Engineering not fancy stuff.**
+- 🔭 I’m currently working on **Android Developement**
+- 🌱 I’m Learning more about **DSA, System Design, and AI integrations**
+- 👯 I’m looking to collaborate on **Building android projects**
 - 👨‍💻 Check out my Portfolio [https://portfolioabhishekraina07.my.canva.site/](https://portfolioabhishekraina07.my.canva.site/)
-- 💬 Ask me about **Software Developement (Mobile specific), React-Native, Flutter, backend.** 
-- 📫 How to reach me **abhishek.raina.uit@gmail.com**
+- 💬 Ask me about **Software Developement (Mobile specific) - Flutter, Android, React-Native and Backend** 
+- 📫 You can connect with on  **abhishek.raina.uit@gmail.com**
 
 
 ### 🛠 &nbsp;Tech Stack
