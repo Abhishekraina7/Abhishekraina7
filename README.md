@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raina</h1>
 <h3 align="center"> Mobile Dev from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishekraina7" alt="abhishekraina7" /></a> </p>
-
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on **Android Developement**
