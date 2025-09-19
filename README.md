@@ -3,22 +3,29 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **Android Developement**
+- 🔭 I’m currently working on **Android Fullstack with Java backend**
 - 🌱 I’m Learning more about **DSA, System Design, and AI integrations**
 - 👯 I’m looking to collaborate on **Building android projects**
 - 👨‍💻 Check out my Portfolio [https://portfolioabhishekraina07.my.canva.site/](https://portfolioabhishekraina07.my.canva.site/)
-- 💬 Ask me about **Software Developement (Mobile specific) - Flutter, Android, React-Native and Backend** 
+- 💬 Ask me about **Software Developement (Mobile specific) - Flutter, Android, React-Native and Java Backend** 
 - 📫 You can connect with on  **abhishek.raina.uit@gmail.com**
 
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,10 +56,6 @@
 Abhishekraina7/Abhishekraina7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Expanding my TechStack with:
-[![roadmap.sh](https://roadmap.sh/card/wide/66d47bb8553501e3c37f4416?variant=dark&roadmaps=nodejs%2Cjavascript%2Cbackend%2Ctypescript)](https://roadmap.sh)
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 <a href="https://github.com/Abhishekraina7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekraina7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
