@@ -1,4 +1,4 @@
-# <div align="center">
+# <div>
 # ╔═══════════════════════════════════════════════════════════╗
 # ║                   🚀 ABHISHEK RAINA 🚀                   ║
 # ║          Android Developer | Kotlin • Jetpack Compose     ║
@@ -147,7 +147,7 @@ Tech Stack: Kotlin • MVVM • Room • Coroutines • LiveData
 
 ## 🎓 Education & Achievements
 
-<div align="center">
+<div>
 
 | Achievement | Details |
 |:---|:---|
@@ -155,9 +155,8 @@ Tech Stack: Kotlin • MVVM • Room • Coroutines • LiveData
 | 🎯 **McKinsey Forward Fellow** | 10-week leadership program (problem-solving & communication) |
 | 📚 **RGPV Bachelor's Degree** | B.Tech in CSE (2022-2026), CGPA: 7.0 |
 | 🥇 **School Excellence** | Class XII JKBOSE - 91% |
-
 </div>
----
+
 </div>
 
 ---
@@ -239,11 +238,3 @@ fun getFunFacts() = listOf(
     "Software Developer who lifts heavy and run long distances"
 )
 ```
-
----
-
-<div align="center">
-
-**[⬆ Back to Top](#-abhishek-raina-)**
-
-</div>
