@@ -1,10 +1,3 @@
-# <div>
-# ╔═══════════════════════════════════════════════════════════╗
-# ║                   🚀 ABHISHEK RAINA 🚀                   ║
-# ║          Android Developer | Kotlin • Jetpack Compose     ║
-# ╚═══════════════════════════════════════════════════════════╝
-# </div>
-
 <div align="center">
 
 ### 📱 Building beautiful Android experiences with **Kotlin & Jetpack Compose**
