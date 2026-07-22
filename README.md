@@ -82,7 +82,6 @@ val abhishek = AndroidDeveloper(
 
 - 🏗️ **20+ screen** healthcare React Native application with voice command support
 - ⚙️ **Microservices backend** (Node.js, Express, MongoDB) with **200-500ms response optimization**
-- 🧪 **Unit tests** with Jest & React Testing Library (~80% coverage)
 - 👥 **Lead Intern Role** — full-stack ownership, code reviews for 3-5 interns
 - 🌟 Selected as **lead intern** for demonstrating excellence across frontend-backend integration
 
@@ -95,10 +94,9 @@ val abhishek = AndroidDeveloper(
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-- 📦 **10+ screen** Flutter app from ground-up (complete ownership)
+- 📦 **20+ screen** Flutter app from ground-up (complete ownership)
 - 🔐 Firebase Authentication + real-time data sync with offline-first caching
 - 🛠️ Microservices architecture with Appwrite & MongoDB
-- 🚀 Deployed production-ready app across iOS & Android
 
 ---
 
@@ -116,7 +114,6 @@ Tech Stack: Kotlin • Jetpack Compose • MVVM • Hilt • Firebase
 
 - ⚡ **Zero-cost notification intercept system** — SMS-based focus approvals
 - 🔄 Real-time session sync across devices via Firestore
-- 🧪 Comprehensive unit & integration tests (30-50% coverage)
 - 🎨 Beautiful Compose UI with smooth animations
 
 ---
@@ -177,7 +174,7 @@ Tech Stack: Kotlin • MVVM • Room • Coroutines • LiveData
 // What I'm working on right now:
 val currentFocus = mapOf(
     "🔍" to "Exploring advanced system design patterns",
-    "📚" to "Contributing to beginner-friendly Kotlin/Android repos",
+    "📚" to "Contributing to Kotlin/Android repos",
     "💼" to "Seeking junior Android Developer roles in India",
     "🎓" to "Deepening expertise in Clean Architecture",
     "🌐" to "Expanding full-stack capabilities"
@@ -208,7 +205,7 @@ val currentFocus = mapOf(
 
 <div align="center">
 
-### ✨ *"Write code that humans can understand. Good code is read, not written."* ✨
+### ✨ *"Writing code that humans can understand."* ✨
 
 **Made with ❤️ by Abhishek Raina**
 
