@@ -128,16 +128,3 @@ val currentFocus = mapOf(
 
 </div>
 
----
-
-## 📈 Fun Facts
-
-```
-fun getFunFacts() = listOf(
-    "Solved 200+ DSA problems on LeetCode 🧠",
-    "Architected full Flutter apps from scratch 🏗️",
-    "Loves clean code & design patterns 🎨",
-    "Always learning, always building 🌱"
-    "Software Developer who lifts heavy and run long distances"
-)
-```
