@@ -65,92 +65,8 @@ val abhishek = AndroidDeveloper(
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![Android%20Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](#)
 
-</div>
-
----
-
-## 💼 Work Experience
-
-### 🏢 **Infosys** — SDE Intern (React Native + Full-Stack)
-**Dec 2024 - Feb 2025** | Remote
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ Key Achievements:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-- 🏗️ **20+ screen** healthcare React Native application with voice command support
-- ⚙️ **Microservices backend** (Node.js, Express, MongoDB) with **200-500ms response optimization**
-- 👥 **Lead Intern Role** — full-stack ownership, code reviews for 3-5 interns
-- 🌟 Selected as **lead intern** for demonstrating excellence across frontend-backend integration
-
-### 🏢 **RGS Pvt. Ltd** — SDE-Flutter Intern
-**Sep 2024 - Dec 2024** | On-site
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ Key Achievements:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-- 📦 **20+ screen** Flutter app from ground-up (complete ownership)
-- 🔐 Firebase Authentication + real-time data sync with offline-first caching
-- 🛠️ Microservices architecture with Appwrite & MongoDB
-
----
-
-## 🎯 Featured Projects
-
-### 📌 **Atrox: Focus Session Manager**
-*Building Android productivity with zen-mode notifications*
-
-[![GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhishekraina7/Atrox)
-
-```
-Tech Stack: Kotlin • Jetpack Compose • MVVM • Hilt • Firebase
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-- ⚡ **Zero-cost notification intercept system** — SMS-based focus approvals
-- 🔄 Real-time session sync across devices via Firestore
-- 🎨 Beautiful Compose UI with smooth animations
-
----
-
-### 📌 **Inventory App: MVVM Case Study**
-*Clean architecture & offline-first persistence patterns*
-
-[![GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhishekraina7/InventoryApp)
-
-```
-Tech Stack: Kotlin • MVVM • Room • Coroutines • LiveData
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-- 🏗️ **Strict MVVM architecture** with Repository pattern
-- 💾 Offline-first SQLite persistence with Room
-- ⚡ Non-blocking reactive queries using Coroutines
-- ✅ Full CRUD operations with beta user validation
-
----
-
-## 🎓 Education & Achievements
-
-<div>
-
-| Achievement | Details |
-|:---|:---|
-| 🏆 **PMSSS Merit Scholarship** | Full-tuition award for undergraduate engineering |
-| 🎯 **McKinsey Forward Fellow** | 10-week leadership program (problem-solving & communication) |
-| 📚 **RGPV Bachelor's Degree** | B.Tech in CSE (2022-2026), CGPA: 7.0 |
-| 🥇 **School Excellence** | Class XII JKBOSE - 91% |
-</div>
-
-</div>
-
----
-
+<div align="left">
+   
 ## 🎨 What I'm Passionate About
 
 ```
@@ -165,9 +81,11 @@ Tech Stack: Kotlin • MVVM • Room • Coroutines • LiveData
 │ 📱 Full-Stack Mobile Development        │
 └─────────────────────────────────────────┘
 ```
+</div>
 
----
 
+<div align="left">
+   
 ## 🚀 Currently
 
 ```kotlin
@@ -180,12 +98,10 @@ val currentFocus = mapOf(
     "🌐" to "Expanding full-stack capabilities"
 )
 ```
-
----
-
+</div>
+<div align="left">
+   
 ## 💬 Let's Connect!
-
-<div>
 
 **I'm always open to:**
 - 🤝 Collaborating on Android projects
@@ -197,11 +113,8 @@ val currentFocus = mapOf(
 - 💌 [Email Me](mailto:abhishek.raina.uit@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/abhishekraina7)
 - 💻 [LeetCode](https://leetcode.com/abhishekraina7)
-- 📦 [My Projects](#-featured-projects)
 
 </div>
-
----
 
 <div align="center">
 
